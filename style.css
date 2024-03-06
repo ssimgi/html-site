@@ -1,0 +1,23 @@
+body{
+    background-image: url(rick1.jpg) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#ok{
+    color: rgb(95, 66, 192);
+    font-family:"lucida console", "courier new";
+    font-size: 1.5em;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+button:hover{
+    color: aqua;
+
+}
+#banana::after{
+content: "🍌" ;
+}
+
